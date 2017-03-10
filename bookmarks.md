@@ -14,3 +14,5 @@
 
 ## Anime
 * Ghost in the shell (http://www.swagger.mx/cine/ghost-shell-animada-mexico-funciones)
+* La tortuga roja
+* El recuerdo de Marnie
