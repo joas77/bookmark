@@ -29,3 +29,5 @@
 
 ## Jobs
 * https://hired.com/
+
+* Human Being Project (https://www.humanbrainproject.eu/)
