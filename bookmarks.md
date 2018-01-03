@@ -12,6 +12,12 @@
 ## HW
 * http://www.openhandproject.org/index.php
 * https://www.openbionics.com/
+### Android
+* Tutorials to root android:
+* http://www.rojtberg.net/668/how-to-root-android-using-ubuntu/
+* https://twrp.me/huawei/huaweihonor4x.html
+* http://www.htcmania.com/showthread.php?p=23995974
+* http://www.htcmania.com/archive/index.php/t-1011572.html
 
 ### Neural Networks
 * Spike neurons (http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0150329#pone-0150329-g001)
