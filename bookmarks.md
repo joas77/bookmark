@@ -3,6 +3,7 @@
 ## Books
 * http://www.dev-books.com/
 * http://algs4.cs.princeton.edu/home/
+* https://gamemath.com/book/index.html
 
 ## SW
 ### Python
