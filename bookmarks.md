@@ -13,6 +13,10 @@
 ## HW
 * http://www.openhandproject.org/index.php
 * https://www.openbionics.com/
+
+## Raspberry pi
+* [Pi-hole (add blocker)](https://www.raspberrypi.com/tutorials/running-pi-hole-on-a-raspberry-pi/)
+
 ### Android
 * Tutorials to root android:
 * http://www.rojtberg.net/668/how-to-root-android-using-ubuntu/
@@ -39,5 +43,3 @@
 
 * Human Being Project (https://www.humanbrainproject.eu/)
 
-## Master
-* buscar becas erasmus
