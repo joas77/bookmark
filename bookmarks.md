@@ -11,7 +11,7 @@
 * [Graphs in Python](http://www.python-course.eu/graphs_python.php)
 
 ## HW
-* http://www.openhandproject.org/index.php
+* https://www.eng.yale.edu/grablab/openhand/
 * https://www.openbionics.com/
 
 ## Raspberry pi
