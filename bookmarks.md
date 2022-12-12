@@ -5,6 +5,9 @@
 * http://algs4.cs.princeton.edu/home/
 * https://gamemath.com/book/index.html
 
+## Courses
+* [Interesting MIT courses already filtered, math, engineering, etc](https://ocw.mit.edu/search/?d=Mathematics&d=Electrical%20Engineering%20and%20Computer%20Science&d=Economics&f=Lecture%20Videos&t=Engineering&t=Science&t=Business&t=Mathematics&t=Computer%20Science&t=Physics&t=Systems%20Engineering&t=Economics&t=Probability%20and%20Statistics&t=Applied%20Mathematics&t=Computational%20Modeling%20and%20Simulation&t=Artificial%20Intelligence&t=Neuroscience&t=Theory%20of%20Computation&t=Linear%20Algebra&t=Software%20Design%20and%20Engineering&t=Information%20Technology&t=Leadership&t=Signal%20Processing&t=Algebra%20and%20Number%20Theory&t=Finance&t=Mathematical%20Analysis&t=Programming%20Languages&t=Computer%20Design%20and%20Engineering&t=Dynamics%20and%20Control&t=Game%20Theory&t=Financial%20Economics)
+
 ## SW
 ### Python
 * [Python Patterns - Implementing Graphs](https://www.python.org/doc/essays/graphs/)
